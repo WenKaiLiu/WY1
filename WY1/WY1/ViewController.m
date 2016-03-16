@@ -25,5 +25,6 @@
     NSLog(@"Fuck!");
     NSLog(@"ddd");
     NSLog(@"刘文凯");
+    NSLog(@"欧巴");
 }
 @end
