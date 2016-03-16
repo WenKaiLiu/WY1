@@ -22,5 +22,6 @@
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event
 {
     NSLog(@"hello!");
+    NSLog(@"Fuck!");
 }
 @end
