@@ -23,5 +23,6 @@
 {
     NSLog(@"hello!");
     NSLog(@"Fuck!");
+    NSLog(@"ddd");
 }
 @end
