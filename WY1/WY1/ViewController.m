@@ -24,5 +24,6 @@
     NSLog(@"hello!");
     NSLog(@"Fuck!");
     NSLog(@"ddd");
+    NSLog(@"刘文凯");
 }
 @end
